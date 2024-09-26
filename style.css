@@ -1,0 +1,55 @@
+.login
+{
+    
+   border: 1px solid white;
+   padding: 40px 60px;
+   margin: 50px auto;
+   width: 340px;
+}
+.logimg
+{
+   width: 100%;
+  
+   
+}
+.log-txt
+{
+     padding-left: 110px;
+     margin-bottom: 30px;
+}
+.text
+{
+  width: 90%;
+  padding: 12px 20px;
+  border-radius: 10px;
+  border:2px solid rgb(249, 243, 243);
+  margin-bottom: 10px;
+
+}
+.log-btn
+{
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+  padding: 15px 40px;
+  margin: 15px 50px 40px 40px;
+  width: 80%;
+}
+.log-sign
+{
+  color: grey;
+  margin-left:80px;
+  margin-top: 150px;
+
+}
+.log-forgot
+{
+  margin-left: 80px;
+ 
+}
+.footer
+{
+  color: gray;
+  
+  
+}
